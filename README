@@ -1,5 +1,10 @@
 Resume development of Infinium-8 (INF-8)
 
+TESTS are BROKEN. So do just
+
+make daemon && make simplewallet
+
+
 If you have any questions , do not hesitate to contact: Nimoria@Hushmail.com
 
 == Preparation ==
